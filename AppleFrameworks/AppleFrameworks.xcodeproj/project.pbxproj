@@ -16,6 +16,7 @@
 		F46B51B227B2B84400E9E18F /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46B51B127B2B84400E9E18F /* FrameworkDetailView.swift */; };
 		F46B51B427B2BA5100E9E18F /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46B51B327B2BA5100E9E18F /* CustomButton.swift */; };
 		F46B51B627B2BEF300E9E18F /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46B51B527B2BEF300E9E18F /* FrameworkGridViewModel.swift */; };
+		F46B51B827B2C60D00E9E18F /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46B51B727B2C60D00E9E18F /* SafariView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		F46B51B127B2B84400E9E18F /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		F46B51B327B2BA5100E9E18F /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 		F46B51B527B2BEF300E9E18F /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
+		F46B51B727B2C60D00E9E18F /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				F46B51AF27B2B27A00E9E18F /* Framework.swift */,
 				F46B51B127B2B84400E9E18F /* FrameworkDetailView.swift */,
 				F46B51B527B2BEF300E9E18F /* FrameworkGridViewModel.swift */,
+				F46B51B727B2C60D00E9E18F /* SafariView.swift */,
 			);
 			path = AppleFrameworks;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				F46B51B227B2B84400E9E18F /* FrameworkDetailView.swift in Sources */,
 				F46B519E27B2AE9E00E9E18F /* AppleFrameworksApp.swift in Sources */,
 				F46B51AE27B2B25E00E9E18F /* MockData.swift in Sources */,
+				F46B51B827B2C60D00E9E18F /* SafariView.swift in Sources */,
 				F46B51B427B2BA5100E9E18F /* CustomButton.swift in Sources */,
 				F46B51B627B2BEF300E9E18F /* FrameworkGridViewModel.swift in Sources */,
 				F46B51AC27B2B21E00E9E18F /* FrameworkGritView.swift in Sources */,
