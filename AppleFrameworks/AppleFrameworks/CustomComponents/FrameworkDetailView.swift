@@ -14,6 +14,7 @@ struct FrameworkDetailView: View {
     @State private var isShowingSafariView = false
 
     var body: some View {
+        // for list view change to: HStack
         VStack {
             DismissButton(isShowingDetailView: $isShowingDetailView)
 
